@@ -1,4 +1,4 @@
-### HI ! Meu nome é Mateus Leandro, desenvolvedor Jr .NET
+### HI ! Meu nome é Mateus Leandro, desenvolvedor Jr Java
 
 <div>
   <a href="https://github.com/MateusLSants">
